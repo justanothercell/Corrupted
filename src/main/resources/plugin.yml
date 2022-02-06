@@ -1,0 +1,6 @@
+name: Corruption
+version: ${project.version}
+main: me.DragonFighter603.corruption.Corruption
+api-version: 1.18
+authors: [ DragonFighter603 ]
+description: Lets your world slowly be corrupted by crimson, warped and mycelium
